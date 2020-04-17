@@ -3,6 +3,9 @@
 import sys
 
 def making_change(amount, denominations):
+
+  if n <= 1:
+    return 1
   pass 
 
 

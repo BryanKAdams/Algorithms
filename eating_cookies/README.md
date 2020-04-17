@@ -11,6 +11,40 @@ For example, for a jar of cookies with `n = 3` (the jar has 3 cookies inside it)
 
 Thus, `eating_cookies(3)` should return an answer of 4.
 
+
+
+1
+
+11
+2
+
+111
+12
+21
+3
+
+1111
+112
+121
+211
+22
+13
+31
+
+11111
+1112
+1121
+1211
+2111
+311
+32
+212
+221
+23
+122
+113
+131
+
 ## Testing
 
 For this problem, there's a test that tests your implementation with small inputs (n <= 10). There's also a separate test that tests your implementation with large inputs (n >= 50). 
